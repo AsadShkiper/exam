@@ -1,0 +1,53 @@
+.title1{
+    border: 3px solid red ;
+    border-collapse: collapse;
+    background-color: rgb(101, 101, 175);
+    text-align: center;
+    border-radius: 30px;
+}
+.title{
+    color: red;
+}
+.color1{
+    color: green;
+}
+.color2{
+    color: red;
+}
+.color3{
+    color: yellow;
+}
+.color4{
+ color: green;
+}
+.color5{
+color: grey;
+}
+.models{
+    background-color: yellow;
+    color: black;
+    text-align: center;
+    width: 850px;
+    margin: 0;
+}
+tr,th,td,table{
+    text-align: center;
+    border: 3px solid white;
+    border-collapse: collapse;
+}
+.name{   
+    background-color: red;
+}
+.names{
+    background-color: green;
+}
+.colors{
+    background-color: rgb(172, 16, 172);
+    color:black
+}
+.button{
+    background-color: greenyellow;
+  font-size: 20px;
+ width: 150px;
+ text-align: center;
+}
